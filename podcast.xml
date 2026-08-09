@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bilgi Odası</title>
+    <link>https://www.youtube.com/@BilgiOdasitv</link>
+    <language>tr</language>
+    <description>Dünyanın en ilginç konularının hikâyeleştirilerek anlatıldığı bir oda. Kuru bilgi değil, hikâye anlatıyoruz — çünkü insan hikâyeyle öğrenir, hikâyeyle hatırlar. Paranın Hikâyesi, Vücut Fabrikası, Zihnin Kodları ve daha nice konu. Her hafta yeni bölüm.</description>
+    <itunes:author>Bilgi Odası</itunes:author>
+    <itunes:summary>Dünyanın en ilginç konularının hikâyeleştirilerek anlatıldığı bir oda. Kuru bilgi değil, hikâye anlatıyoruz — çünkü insan hikâyeyle öğrenir, hikâyeyle hatırlar. Paranın Hikâyesi, Vücut Fabrikası, Zihnin Kodları ve daha nice konu. Her hafta yeni bölüm.</itunes:summary>
+    <itunes:owner><itunes:name>Bilgi Odası</itunes:name><itunes:email>odacilar@gmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://odacilar.github.io/bilgi-odasi-podcast/kapak.jpg"/>
+    <image><url>https://odacilar.github.io/bilgi-odasi-podcast/kapak.jpg</url><title>Bilgi Odası</title><link>https://www.youtube.com/@BilgiOdasitv</link></image>
+    <itunes:category text="Education"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Karun Kadar Zengin Adamın Sonu — Paranın Hikâyesi #1</title>
+      <description>Tarihin en zengin adamı Karun'un hikâyesiyle paranın serüvenine başlıyoruz: servet neden hep aynı tuzağa düşürür?</description>
+      <itunes:summary>Tarihin en zengin adamı Karun'un hikâyesiyle paranın serüvenine başlıyoruz: servet neden hep aynı tuzağa düşürür?</itunes:summary>
+      <enclosure url="https://odacilar.github.io/bilgi-odasi-podcast/sesler/PH-01.mp3" length="15117888" type="audio/mpeg"/>
+      <guid isPermaLink="false">PH-01.mp3</guid>
+      <pubDate>Thu, 30 Jul 2026 15:29:44 +0000</pubDate>
+      <itunes:duration>00:15:44</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tarihin İlk Banka Krizi: Roma Parasız Uyandı — Paranın Hikâyesi #2</title>
+      <description>Roma bir sabah parasız uyandı. Tarihin ilk büyük banka krizi nasıl patladı?</description>
+      <itunes:summary>Roma bir sabah parasız uyandı. Tarihin ilk büyük banka krizi nasıl patladı?</itunes:summary>
+      <enclosure url="https://odacilar.github.io/bilgi-odasi-podcast/sesler/PH-02.mp3" length="9336129" type="audio/mpeg"/>
+      <guid isPermaLink="false">PH-02.mp3</guid>
+      <pubDate>Fri, 31 Jul 2026 15:29:44 +0000</pubDate>
+      <itunes:duration>00:09:43</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Krallara Borç Veren Aile: Medici'ler — Paranın Hikâyesi #3</title>
+      <description>Ordusuz bir imparatorluk kuran, krallara borç veren aile: Medici'lerin yükselişi.</description>
+      <itunes:summary>Ordusuz bir imparatorluk kuran, krallara borç veren aile: Medici'lerin yükselişi.</itunes:summary>
+      <enclosure url="https://odacilar.github.io/bilgi-odasi-podcast/sesler/PH-03.mp3" length="7500870" type="audio/mpeg"/>
+      <guid isPermaLink="false">PH-03.mp3</guid>
+      <pubDate>Sat, 01 Aug 2026 15:29:44 +0000</pubDate>
+      <itunes:duration>00:07:48</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Bir Çiçek Soğanına Ev: Lale Çılgınlığı — Paranın Hikâyesi #4</title>
+      <description>Tarihin ilk balonu: insanlar bir lale soğanına neden ev verdi?</description>
+      <itunes:summary>Tarihin ilk balonu: insanlar bir lale soğanına neden ev verdi?</itunes:summary>
+      <enclosure url="https://odacilar.github.io/bilgi-odasi-podcast/sesler/PH-04.mp3" length="7296069" type="audio/mpeg"/>
+      <guid isPermaLink="false">PH-04.mp3</guid>
+      <pubDate>Sun, 02 Aug 2026 15:29:44 +0000</pubDate>
+      <itunes:duration>00:07:35</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Fransa'yı Batıran Kumarbaz: John Law — Paranın Hikâyesi #5</title>
+      <description>Bir kumarbaz koca Fransa'yı nasıl batırdı? Kâğıt paranın ilk büyük felaketi.</description>
+      <itunes:summary>Bir kumarbaz koca Fransa'yı nasıl batırdı? Kâğıt paranın ilk büyük felaketi.</itunes:summary>
+      <enclosure url="https://odacilar.github.io/bilgi-odasi-podcast/sesler/PH-05.mp3" length="7992808" type="audio/mpeg"/>
+      <guid isPermaLink="false">PH-05.mp3</guid>
+      <pubDate>Mon, 03 Aug 2026 15:29:44 +0000</pubDate>
+      <itunes:duration>00:08:19</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Savaşın Sonucunu Kraldan Önce Öğrenen Adam: Rothschild — Paranın Hikâyesi #6</title>
+      <description>Bilgi neden paradır? Rothschild'in efsanevi hamlesi.</description>
+      <itunes:summary>Bilgi neden paradır? Rothschild'in efsanevi hamlesi.</itunes:summary>
+      <enclosure url="https://odacilar.github.io/bilgi-odasi-podcast/sesler/PH-06.mp3" length="9014300" type="audio/mpeg"/>
+      <guid isPermaLink="false">PH-06.mp3</guid>
+      <pubDate>Tue, 04 Aug 2026 15:29:44 +0000</pubDate>
+      <itunes:duration>00:09:23</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ayakkabı Boyacısı Hisse Tavsiyesi Verince: 1929 — Paranın Hikâyesi #7</title>
+      <description>1929 Kara Perşembe: balon en tepede nasıl patlar?</description>
+      <itunes:summary>1929 Kara Perşembe: balon en tepede nasıl patlar?</itunes:summary>
+      <enclosure url="https://odacilar.github.io/bilgi-odasi-podcast/sesler/PH-07.mp3" length="8600938" type="audio/mpeg"/>
+      <guid isPermaLink="false">PH-07.mp3</guid>
+      <pubDate>Wed, 05 Aug 2026 15:29:44 +0000</pubDate>
+      <itunes:duration>00:08:57</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Paranın Karşılığının Kaldırıldığı Gece: 1971 — Paranın Hikâyesi #8</title>
+      <description>Nixon 1971'de altın standardını kaldırdı; para o gece ne oldu?</description>
+      <itunes:summary>Nixon 1971'de altın standardını kaldırdı; para o gece ne oldu?</itunes:summary>
+      <enclosure url="https://odacilar.github.io/bilgi-odasi-podcast/sesler/PH-08.mp3" length="9705604" type="audio/mpeg"/>
+      <guid isPermaLink="false">PH-08.mp3</guid>
+      <pubDate>Thu, 06 Aug 2026 15:29:44 +0000</pubDate>
+      <itunes:duration>00:10:06</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>158 Yıllık Banka Bir Sabah Yok Oldu: 2008 — Paranın Hikâyesi #9</title>
+      <description>2008 krizi: koca bir banka bir sabah nasıl buharlaştı?</description>
+      <itunes:summary>2008 krizi: koca bir banka bir sabah nasıl buharlaştı?</itunes:summary>
+      <enclosure url="https://odacilar.github.io/bilgi-odasi-podcast/sesler/PH-09.mp3" length="8880135" type="audio/mpeg"/>
+      <guid isPermaLink="false">PH-09.mp3</guid>
+      <pubDate>Fri, 07 Aug 2026 15:29:44 +0000</pubDate>
+      <itunes:duration>00:09:14</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Para Yok Oluyor: 5000 Yıllık Hikâyenin Sonu — Paranın Hikâyesi #10</title>
+      <description>Sikkeden dijitale: paranın geleceği ve 5000 yıllık serüvenin finali.</description>
+      <itunes:summary>Sikkeden dijitale: paranın geleceği ve 5000 yıllık serüvenin finali.</itunes:summary>
+      <enclosure url="https://odacilar.github.io/bilgi-odasi-podcast/sesler/PH-10.mp3" length="8931544" type="audio/mpeg"/>
+      <guid isPermaLink="false">PH-10.mp3</guid>
+      <pubDate>Sat, 08 Aug 2026 15:29:44 +0000</pubDate>
+      <itunes:duration>00:09:18</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
