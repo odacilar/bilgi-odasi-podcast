@@ -1,0 +1,440 @@
+{
+ "channel": {
+  "title": "Bilgi Odası",
+  "link": "https://www.youtube.com/@BilgiOdasitv",
+  "language": "tr",
+  "description": "Dünyanın en ilginç konularının hikâyeleştirilerek anlatıldığı bir oda. Kuru bilgi değil, hikâye anlatıyoruz — çünkü insan hikâyeyle öğrenir, hikâyeyle hatırlar. Paranın Hikâyesi, Vücut Fabrikası, Zihnin Kodları ve daha nice konu. Her hafta yeni bölüm. 📺 Videolu hali YouTube kanalımızda: https://www.youtube.com/@BilgiOdasitv",
+  "author": "Bilgi Odası",
+  "email": "odacilar@gmail.com",
+  "category": "Education"
+ },
+ "episodes": [
+  {
+   "file": "PH-01.mp3",
+   "title": "Karun Kadar Zengin Adamın Sonu — Paranın Hikâyesi #1",
+   "desc": "Tarihin en zengin adamı Karun'un hikâyesiyle paranın serüvenine başlıyoruz: servet neden hep aynı tuzağa düşürür?",
+   "season": 1,
+   "episode": 1
+  },
+  {
+   "file": "PH-02.mp3",
+   "title": "Tarihin İlk Banka Krizi: Roma Parasız Uyandı — Paranın Hikâyesi #2",
+   "desc": "Roma bir sabah parasız uyandı. Tarihin ilk büyük banka krizi nasıl patladı?",
+   "season": 1,
+   "episode": 2
+  },
+  {
+   "file": "PH-03.mp3",
+   "title": "Krallara Borç Veren Aile: Medici'ler — Paranın Hikâyesi #3",
+   "desc": "Ordusuz bir imparatorluk kuran, krallara borç veren aile: Medici'lerin yükselişi.",
+   "season": 1,
+   "episode": 3
+  },
+  {
+   "file": "PH-04.mp3",
+   "title": "Bir Çiçek Soğanına Ev: Lale Çılgınlığı — Paranın Hikâyesi #4",
+   "desc": "Tarihin ilk balonu: insanlar bir lale soğanına neden ev verdi?",
+   "season": 1,
+   "episode": 4
+  },
+  {
+   "file": "PH-05.mp3",
+   "title": "Fransa'yı Batıran Kumarbaz: John Law — Paranın Hikâyesi #5",
+   "desc": "Bir kumarbaz koca Fransa'yı nasıl batırdı? Kâğıt paranın ilk büyük felaketi.",
+   "season": 1,
+   "episode": 5
+  },
+  {
+   "file": "PH-06.mp3",
+   "title": "Savaşın Sonucunu Kraldan Önce Öğrenen Adam: Rothschild — Paranın Hikâyesi #6",
+   "desc": "Bilgi neden paradır? Rothschild'in efsanevi hamlesi.",
+   "season": 1,
+   "episode": 6
+  },
+  {
+   "file": "PH-07.mp3",
+   "title": "Ayakkabı Boyacısı Hisse Tavsiyesi Verince: 1929 — Paranın Hikâyesi #7",
+   "desc": "1929 Kara Perşembe: balon en tepede nasıl patlar?",
+   "season": 1,
+   "episode": 7
+  },
+  {
+   "file": "PH-08.mp3",
+   "title": "Paranın Karşılığının Kaldırıldığı Gece: 1971 — Paranın Hikâyesi #8",
+   "desc": "Nixon 1971'de altın standardını kaldırdı; para o gece ne oldu?",
+   "season": 1,
+   "episode": 8
+  },
+  {
+   "file": "PH-09.mp3",
+   "title": "158 Yıllık Banka Bir Sabah Yok Oldu: 2008 — Paranın Hikâyesi #9",
+   "desc": "2008 krizi: koca bir banka bir sabah nasıl buharlaştı?",
+   "season": 1,
+   "episode": 9
+  },
+  {
+   "file": "PH-10.mp3",
+   "title": "Para Yok Oluyor: 5000 Yıllık Hikâyenin Sonu — Paranın Hikâyesi #10",
+   "desc": "Sikkeden dijitale: paranın geleceği ve 5000 yıllık serüvenin finali.",
+   "season": 1,
+   "episode": 10
+  },
+  {
+   "file": "VF-01.mp3",
+   "title": "Kaslar \"Kaba Kuvvet\" Değil: İçindeki Gizli Eczane — Vücut Fabrikası #1",
+   "desc": "Aynaya bakıp \"şu kaslar\" diyorsun — güç, hacim, kaba kuvvet. Oysa vücudundaki bu tek organ aynı anda iki şey birden: hem şehri kımıldatan bir *motor*, hem de gizli bir *eczane*. Her kasıldığında, farkında bile olmadan, kanına ilaç salıyor. Ve o eczaneyi açan tek bir düğme var: **",
+   "season": 2,
+   "episode": 1
+  },
+  {
+   "file": "VF-02.mp3",
+   "title": "İskeletin Ölü Değil — İçinde Gece Gündüz İnşaat Var 🦴 — Vücut Fabrikası #2",
+   "desc": "Geçen durakta fabrikanın motorlarını — **kaslarını** — gördük. Peki o dev vinçler neye tutunuyor, bütün güçleriyle neyi çekiyor? Bu bölümde şehri ayakta tutan **yaşayan çelik iskelete** iniyoruz.",
+   "season": 2,
+   "episode": 2
+  },
+  {
+   "file": "VF-03.mp3",
+   "title": "Kanın Gizli Döküm Ocağı: Saniyede 2 Milyon Hücre — Vücut Fabrikası #3",
+   "desc": "Geçen durakta o yaşayan çelik iskeleti gezdik. Ayrılırken bir sır fısıldamıştık: *\"Bu kirişler boş değil — içlerinde bir ocak yanıyor.\"* Bugün o ocağın kapağını açıyoruz.",
+   "season": 2,
+   "episode": 3
+  },
+  {
+   "file": "VF-04.mp3",
+   "title": "En Büyük Organın Kalbin Değil: Bedeninin Canlı Sur Duvarı — Vücut Fabrikası #4",
+   "desc": "Şimdiye kadar hep fabrikanın içindeydik — motorlarında, çelik iskeletinde, kemiklerin döküm ocağında. Bu bölümde şehrin **en dışına**, o dev **sur duvarının** üstüne çıkıyoruz. Çünkü bedenindeki en büyük organ kalbin de, beynin de değil... üstünde taşıdığın **deri.** Yere sersen ",
+   "season": 2,
+   "episode": 4
+  },
+  {
+   "file": "VF-05.mp3",
+   "title": "Nefesin Gizli Tesisi: Ciğerlerin Bir Tenis Kortu Kadar — Vücut Fabrikası #5",
+   "desc": "Şu an, sen farkında bile değilken, göğsünde bir kapı açılıp kapanıyor. Beden-şehrin en hayati gümrük kapısı: **hava işleme tesisi.** Bugün o dev oksijen limanına, **akciğerlere** iniyoruz.",
+   "season": 2,
+   "episode": 5
+  },
+  {
+   "file": "ZK-01.mp3",
+   "title": "Gördüğün Dünya Gerçek Değil: Beynin Onu Uyduruyor — Zihnin Kodları #1",
+   "desc": "Şu an gördüğün her şey... aslında gözünden gelmiyor. Kafatasının içindeki o karanlık, sessiz odada beynin bütün bunları *tahmin ediyor* — ve bazen yanılıyor.",
+   "season": 3,
+   "episode": 1
+  },
+  {
+   "file": "ZK-02.mp3",
+   "title": "Kararlarını Sen Vermiyorsun: Beynindeki İki Pilot — Zihnin Kodları #2",
+   "desc": "Bugün verdiğin kararların çoğunu sen vermedin. Kuledeki *öteki pilot* verdi. Beyninde iki pilot var: biri şimşek gibi hızlı ama kestirmeci, öteki bilge ama üşengeç. Ve günün neredeyse tamamında kumanda... hızlı olanda.",
+   "season": 3,
+   "episode": 2
+  },
+  {
+   "file": "ZK-03.mp3",
+   "title": "\"Son Bir Video\" Neden Hep Yalan Çıkıyor? — Zihnin Kodları #3",
+   "desc": "Dün gece \"son bir video\" dedin... sonra bir tane daha, derken saat sabahın ikisi oldu. Peki o \"son bir\" neden hep yalan çıkıyor? Neden o \"bir saniye bakacağım\" hiçbir zaman bir saniye olmuyor? Suçlu, herkesin yanlış tanıdığı bir molekül: dopamin. Ona \"mutluluk molekülü\" derler — ",
+   "season": 3,
+   "episode": 3
+  },
+  {
+   "file": "ZK-04.mp3",
+   "title": "En Net Hatıran Bile Sahte Olabilir — Zihnin Kodları #4",
+   "desc": "En net hatırladığın o an... çocukluğun, bir yaz akşamı, büyük bir korku. \"Ben oradaydım\" diyorsun, kokusunu bile alıyorsun. Ama sana kötü bir haberim var: o hatıranın bir kısmı büyük ihtimalle hiç yaşanmadı. Çünkü beynin o anı bir kamera gibi kaydetmedi — her hatırladığında yenid",
+   "season": 3,
+   "episode": 4
+  },
+  {
+   "file": "ZK-05.mp3",
+   "title": "Beynin Sana Neden Yalan Söylüyor? Zihnin 4 Kısayolu — Zihnin Kodları #5",
+   "desc": "Beynin sana yalan söylüyor — kötü niyetten değil, hız için. O kadar hızlı karar verebilmek için kestirmeler kullanıyor: kısayollar. Ve o kısayolların sistematik hataları var. Yani rastgele yanılmıyorsun — herkesle birlikte, aynı yerde, aynı şekilde yanılıyorsun.",
+   "season": 3,
+   "episode": 5
+  },
+  {
+   "file": "ZK-06.mp3",
+   "title": "Bildiğin Doğruyu Neden Yapamıyorsun? Alışkanlığın Şifresi — Zihnin Kodları #6",
+   "desc": "Sabah \"bugün telefonu daha az kurcalayacağım\" dedin; öğlen olmadan elin cebe gitti bile. Sigara içen zararını ezbere bilir. Sen de neyi yapman gerektiğini gayet iyi biliyorsun. Peki neden bilmekle yapmak arasında upuzun, karanlık bir koridor var?",
+   "season": 3,
+   "episode": 6
+  },
+  {
+   "file": "ZK-07.mp3",
+   "title": "Stres Seni Neden Tüketiyor? Beynindeki Alarm Sistemi — Zihnin Kodları #7",
+   "desc": "Şu an oturuyorsun. Ortada ne bir aslan var, ne bir uçurum. Ama telefonun titriyor, bir bildirim düşüyor — ve kalbin göğsünü dövmeye başlıyor. Bedenin, tam da iki milyon yıl önce ormanda bir aslanla göz göze gelmiş gibi hazırlanıyor. Oysa karşında sadece bir e-posta var. Kulenin b",
+   "season": 3,
+   "episode": 7
+  },
+  {
+   "file": "ZK-08.mp3",
+   "title": "Sen Uyurken Beyninde Ne Oluyor? Gece Vardiyası — Zihnin Kodları #8",
+   "desc": "Her gece aynı şey oluyor. Yatağa uzanıyorsun, gözlerini kapatıyorsun, bir düşünce bir başkasına karışıyor... derken sabah oluyor. Ama o anı hiç yakalayabildin mi? Uykuya tam olarak ne zaman geçtiğin anı... hiç kimse yakalayamaz. Ömrünün üçte birini, nereye gittiğini göremeden tes",
+   "season": 3,
+   "episode": 8
+  },
+  {
+   "file": "ZK-09.mp3",
+   "title": "\"Ben Mantıklı Biriyim\" Yalanı: Kararlarını Aslında Duyguların Veriyor — Zihnin Kodları #9",
+   "desc": "\"Ben mantıklı bir insanım, duygusal kararlar vermem\" diyorsun. Peki beyninin duygu odasını bir ameliyatta kaybeden Elliot'ı nasıl açıklarsın? Zekâsı dâhi seviyesinde, hafızası kusursuz — ama sabah hangi gömleği giyeceğine bile karar veremiyor. Mantığı mükemmeldi; kendi hayatını s",
+   "season": 3,
+   "episode": 9
+  },
+  {
+   "file": "ZK-10.mp3",
+   "title": "Zihnin Arka Kapıları: Seni Nasıl İkna Ediyorlar? — Zihnin Kodları #10",
+   "desc": "Gardırobunu aç: etiketi hâlâ üstünde duran, belki bir kez bile giymediğin o şey. Onu gerçekten sen mi istedin — yoksa birileri, sen \"ben istedim\" diyesin diye senin yerine çoktan karar mı vermişti? Dokuz bölümdür bu kulenin bütün kodlarını söktük. Kötü haber şu: o kodları senden ",
+   "season": 3,
+   "episode": 10
+  },
+  {
+   "file": "TK-01.mp3",
+   "title": "Tek Karınca Aptaldır, Koloni Dâhi: Sürü Zekâsının Sırrı — Toplumun Kodları #1",
+   "desc": "Yüz binlerce karınca, iki gün boyunca kendi kuyruğunu kovalayan bir ölüm çemberinde dönerek can veriyor — kimse hata yapmadan. Aynı karıncalar sel bastığında bedenlerinden köprü kuruyor, en kısa yolu haritasız buluyor. Tek karınca açık ara aptal; ama koloni bir dâhi. Peki bu dâhi",
+   "season": 4,
+   "episode": 1
+  },
+  {
+   "file": "TK-02.mp3",
+   "title": "\"O Ben Değildim\": Kalabalık İyi İnsanı Neden Canavara Çevirir? — Toplumun Kodları #2",
+   "desc": "Vancouver — dünyanın en kibar, en sakin şehirlerinden biri. Bir buz hokeyi finali kaybediliyor ve bir saat içinde şehir savaş alanına dönüyor: yanan polis arabaları, yağmalanan mağazalar, yüz elli yaralı. Ertesi sabah fotoğraflar yayınlanıyor — ve failler çete değil; örnek öğrenc",
+   "season": 4,
+   "episode": 2
+  },
+  {
+   "file": "TK-03.mp3",
+   "title": "18 Ay Süren Kahkaha Salgını: Duygular Virüs Gibi Bulaşır mı? — Toplumun Kodları #3",
+   "desc": "1962, Tanzanya. Bir yatılı kız okulunda üç öğrenci gülmeye başlıyor — ve gülme geçmiyor. Saatler, günler sürüyor; okuldan köylere, köylerden kasabalara sıçrıyor. Sonunda tablo şu: 14 okul kapanmış, bin civarında insan etkilenmiş, salgın tam 18 ay sürmüş. Zehir yok, virüs yok, kom",
+   "season": 4,
+   "episode": 3
+  },
+  {
+   "file": "KORKU-01.mp3",
+   "title": "Korku Nedir Bilmeyen Kadın: Beynindeki Alarm Nasıl Çalışır? | Korkunun Anatomisi — Korkunun Anatomisi #1",
+   "desc": "Amerika'da yaşayan bir kadın var: makalelerde adı sadece **S.M.** Yılanı eline alıyor, tarantulaya uzanıyor, perili evde kahkaha atıyor, boğazına bıçak dayanınca sakince kurtulup ertesi gün aynı parktan geçiyor. Çünkü beynindeki **amigdala** — badem şeklindeki o iki küçük çekirde",
+   "season": 5,
+   "episode": 1
+  },
+  {
+   "file": "TK-04.mp3",
+   "title": "İhtiyacın Yok Ama Yine de Alıyorsun: Statü Tuzağı | Toplumun Kodları #4",
+   "desc": "1999'da Las Vegas'ta bir çift, mahkeme salonunun zeminine oturtulup gözünün önünde pelüş oyuncak paylaştırılıyor — çünkü paylaşamadıkları şey ev, araba ya da velayet değil, üretim maliyeti birkaç dolarlık bir yığın Beanie Babies. O yığının değeri: bir ev parası. Bir adam çocuklarının geleceği niyetine bu bebeklere yüz bin dolar yatırıyor... ve iki yıl sonra o servet, bir bavul dolusu kumaşa dönüşüyor. Bu insanlar aptal değildi. Sadece bir şey kapmışlardı: başkası istediği için istemenin virüsünü. Toplumun Kodları'nın dördüncü bölümünde neden ihtiyacımız olmayan şeyleri aldığımızı hücre hücre çözüyoruz. Pahalandıkça daha çok istenen **Veblen mallarından** modanın neden sürekli ölçü değiştirdiğine (aynı ten rengi, yüz yıl arayla iki zıt mesaj), René Girard'ın **mimetik arzu üçgenine** — arzularımızı başkalarından kopyalamamıza — değeri sadece \"başkasında olmamasından\" gelen **konumsal mallara** ve asla tepesine varılamayan **statü merdiveninin lanetine** kadar. Sonunda vitrinin arkasındaki asıl mesele çıkıyor ortaya: satın aldığımız şey çoğu zaman eşya değil; \"biz kimiz?\" — ve gölgesinde her zaman bir cümle daha yazılı: \"ben onlardan değilim.\"",
+   "season": 4,
+   "episode": 4
+  },
+  {
+   "file": "TK-05.mp3",
+   "title": "Nefret İçin Sebep Gerekmiyor: Yazı-Tura İki Grup Yeter | Toplumun Kodları #5",
+   "desc": "1954 yazında, Oklahoma'nın ormanları içindeki Robbers Cave — Haydutlar Mağarası — kampına iki otobüs, birbirini hiç tanımayan yirmi iki normal çocuk getiriyor. Hepsi on bir yaşında, benzer mahallelerden, notları iyi, kayıtları tertemiz. Ama bu bir yaz kampı değil, bir deney; ve \"müdür\" kılığındaki sakin adam İzmir doğumlu bir Türk bilim insanı: Muzafer Şerif. Çocuklar rastgele ikiye bölünüyor — yazı-tura gibi, hiçbir anlamı olmayan bir çizgi. Üç hafta içinde ortada isimleri, bayrakları, marşları olan ve birbirinin kampını basan iki düşman kabile var. Kimse onlara nefret etmeyi öğretmedi. Sadece ikiye böldüler. Toplumun Kodları'nın beşinci bölümünde \"biz\" ve \"onlar\"ın nasıl bir çırpıda doğduğunu çözüyoruz. Tajfel'in minimal grup deneyinden — çocukların kendi grubunun kazancını düşürme pahasına \"onlar\"la farkı açmayı seçmesinden — Jane Elliott'ın mavi göz/kahverengi göz sınıfına, sevgi ve dışlamayı aynı molekülden çıkaran oksitosine, rakip takım kaybedince ödül devreleri parlayan taraftar beynine (schadenfreude) kadar. Sonra şehrin yeni mahallelerine iniyoruz: yankı odaları, kutuplaşma ve aynı çay bahçesinde iki ayrı gündem evreninde yaşayan iki amca. Ve en güzelini sona saklıyoruz — Şerif o kampı orada bitirmedi; düşmanlığı neyin erittiğini gösterdi.",
+   "season": 4,
+   "episode": 5
+  },
+  {
+   "file": "VF-06.mp3",
+   "title": "Bağışıklık Sistemi Nasıl Savaşır? Ateş, Antikor ve Sitokin Fırtınası | Vücut Fabrikası #6",
+   "desc": "Şu an, sen bunu okurken, içindeki görünmez ordu sayısız saldırıyı püskürtüyor.",
+   "season": 2,
+   "episode": 6
+  },
+  {
+   "file": "VF-07.mp3",
+   "title": "\"Detoks Çayı\" Gerçekten İşe Yarar mı? Karaciğer & Böbrek Gerçeği | Vücut Fabrikası #7",
+   "desc": "\"Detoks çayları\" bir masal — çünkü dünyanın en iyi arıtma tesisi zaten bedava çalışıyor: **karaciğer ve böbrek.**",
+   "season": 2,
+   "episode": 7
+  },
+  {
+   "file": "VF-08.mp3",
+   "title": "Uyku Beynini Nasıl Yıkar? Glymphatic Sistem & Alzheimer Bağı | Vücut Fabrikası #8",
+   "desc": "Uyku \"boşa geçen zaman\" değil; şehrin **en pahalı bakım vardiyası.**",
+   "season": 2,
+   "episode": 8
+  },
+  {
+   "file": "VF-09.mp3",
+   "title": "\"Ne Yersen O Olursun\" — Beslenme & Mikrobiyomun Gizli Ordusu | Vücut Fabrikası #9",
+   "desc": "Bütün bu şehir tek bir kaynaktan besleniyor: **senin ağzından giren hammadde.**",
+   "season": 2,
+   "episode": 9
+  },
+  {
+   "file": "VF-10.mp3",
+   "title": "Metabolik Sendrom: Bütün Hastalıkların Buluştuğu Kavşak | Vücut Fabrikası #10",
+   "desc": "En tepedeki **kontrol odasına** çıkıyor ve bütün sezonu birleştiriyoruz. Panel üzerindeki ışıklar birbirine bağlı: bel çevresi → iltihap → insülin direnci → tansiyon → damar. Bu kısır döngünün adı **metabolik sendrom.**",
+   "season": 2,
+   "episode": 10
+  },
+  {
+   "file": "VF-11.mp3",
+   "title": "Hangi Takviye Gerçekten İşe Yarar? (Kanıtla) | Vücut Fabrikası #11 — Sezon Finali",
+   "desc": "Sezon finali: eczane rafının önündeyiz. Hangisi gerçek bir **yedek parça**, hangisi sadece **pahalı bir idrar?** **D vitamini, magnezyum, omega-3, kreatin, CoQ10, probiyotik, multivitamin, protein tozu, çinko, B12, demir, C vitamini, kolajen** — her birinin arkasındaki bilimi ve **kanıt düzeyini dürüstçe** konuşuyoruz. Altın kural: **önce ölç, eksikse tamamla, herkese her şey değil.** Ve sezonun asıl dersi: en güçlü takviyeler zaten bedava.",
+   "season": 2,
+   "episode": 11
+  },
+  {
+   "file": "VF-S2-01.mp3",
+   "title": "Kaslar \"Kaba Kuvvet\" Değil: İçindeki Gizli Eczane | Vücut Fabrikası S2·1",
+   "desc": "Aynaya bakıp \"şu kaslar\" diyorsun — güç, hacim, kaba kuvvet. Oysa vücudundaki bu tek organ aynı anda iki şey birden: hem şehri kımıldatan bir *motor*, hem de gizli bir *eczane*. Her kasıldığında, farkında bile olmadan, kanına ilaç salıyor. Ve o eczaneyi açan tek bir düğme var: **hareket**. Vücut Fabrikası'nın 2. sezonu, fabrikanın en derin katlarına iniyor. İlk durak motor dairesi: bir kas lifinin en dibinde milyarlarca \"kürekçi\", ATP jetonlarını kırıp halatları çekiyor — kabaran pazu, işte bu minik kürek darbelerinden ibaret. Ama asıl sır motorda değil; kasın kana saldığı **miyokinlerde**: yağa \"yak\", kemiğe \"güçlen\", beyne \"tazele\", iltihaba \"sakinleş\" diyen canlı bir eczane. Neden hareket, tıbbın bildiği en yakın \"mucize ilaç\"? Ve neden yaşla birlikte bu motor sessizce eriyor — sarkopeni?",
+   "season": 2,
+   "episode": 12
+  },
+  {
+   "file": "VF-S2-02.mp3",
+   "title": "İskeletin Ölü Değil — İçinde Gece Gündüz İnşaat Var 🦴 | Vücut Fabrikası S2 #2",
+   "desc": "Geçen durakta fabrikanın motorlarını — **kaslarını** — gördük. Peki o dev vinçler neye tutunuyor, bütün güçleriyle neyi çekiyor?",
+   "season": 2,
+   "episode": 13
+  },
+  {
+   "file": "VF-S2-02B.mp3",
+   "title": "?",
+   "desc": "Dizin ağrıdığında herkes bir şey söyler: \"kireçlenme\", \"yaş işte\", \"şu hapı kullan\". Peki gerçek ne? Kıkırdak neden bir kere aşınınca kolay kolay geri gelmez — ve gerçekten işe yarayan ne? Bu bonus bölümde, Kemik bölümünde yarım bıraktığımız o yastığın — kıkırdağın — peşine düşüyoruz. Damarsız dokunun neden kendini tamir edemediğini, dizindeki gizli amortisörü ve \"mucize kıkırdak hapı\" mitinin ardındaki gerçeği, kanıt düzeyiyle, abartmadan konuşuyoruz.",
+   "season": 2,
+   "episode": 14
+  },
+  {
+   "file": "VF-S2-03.mp3",
+   "title": "Kanın Gizli Döküm Ocağı: Saniyede 2 Milyon Hücre | Vücut Fabrikası S2 · 3",
+   "desc": "Geçen durakta o yaşayan çelik iskeleti gezdik. Ayrılırken bir sır fısıldamıştık: *\"Bu kirişler boş değil — içlerinde bir ocak yanıyor.\"* Bugün o ocağın kapağını açıyoruz. Şu an bu satırı okurken bile, kemiklerinin en derininde her saniye **iki milyon yeni kan hücresi** dökülüyor. Kemik iliği — şehrin gizli **döküm ocağı**, bütün işçilerin doğduğu yer. Oksijen kamyonların (alyuvar), şehrin askerleri (akyuvar) ve o minik tamir parçaları (trombosit)… hepsi tek bir \"ana kalıptan\", kök hücreden çıkıyor.",
+   "season": 2,
+   "episode": 15
+  },
+  {
+   "file": "VF-S2-04.mp3",
+   "title": "En Büyük Organın Kalbin Değil: Bedeninin Canlı Sur Duvarı | Vücut Fabrikası S2 #4",
+   "desc": "Şimdiye kadar hep fabrikanın içindeydik — motorlarında, çelik iskeletinde, kemiklerin döküm ocağında.",
+   "season": 2,
+   "episode": 16
+  },
+  {
+   "file": "VF-S2-05.mp3",
+   "title": "Nefesin Gizli Tesisi: Ciğerlerin Bir Tenis Kortu Kadar | Vücut Fabrikası S2 #5",
+   "desc": "Şu an, sen farkında bile değilken, göğsünde bir kapı açılıp kapanıyor. Beden-şehrin en hayati gümrük kapısı: **hava işleme tesisi.** Bugün o dev oksijen limanına, **akciğerlere** iniyoruz. Ciğerlerini alıp içindeki bütün kıvrımları yere sersen bir **tenis kortunu** kaplardı — 70 metrekare canlı yüzey, göğsüne katlanmış.",
+   "season": 2,
+   "episode": 17
+  },
+  {
+   "file": "TK-06.mp3",
+   "title": "Bir Emirle Nereye Kadar? İtaatin Ürkütücü Bilimi | Toplumun Kodları #6",
+   "desc": "1961'de New Haven'da, Yale'in gölgesindeki bir kasabada küçük bir gazete ilanı: \"Bir saatiniz karşılığında dört dolar.\" Başvuran sıradan insanlar — postacılar, öğretmenler, mühendisler — kendilerini gri önlüklü bir adamın karşısında, on beş volttan dört yüz elli volta uzanan bir şalter panelinin başında buluyor. Yan odadaki \"öğrenci\" her yanlış cevapta bir şok alacak. Çığlıklar başladığında, duvara yumruklar indiğinde, sonra o ürkütücü sessizlik çöktüğünde önlüklü adam tek bir şey söylüyor: \"Lütfen devam edin.\" Uzmanlar en fazla binde birinin sonuna kadar gideceğini tahmin etmişti. Gerçek rakam: yüzde altmış beş. Her üç kişiden ikisi... sonuna kadar gitti.\n\nToplumun Kodları'nın altıncı bölümünde itaatin mekanizmasını çözüyoruz. Milgram'ın laboratuvarından aynı yıl Kudüs'te yargılanan Eichmann'ın \"ben sadece emirleri uyguladım\" savunmasına, Asch'in çizgi deneyine (ve tek bir doğru sesin büyüyü nasıl bozduğuna), bir telefon emriyle tehlikeli dozu hazırlayan yirmi iki hemşireden yirmi birine (Hofling) kadar. Milgram'ın \"aracı durumu\" dediği şeyi söküyoruz: fren bende değil, önlüklü adama emanet — sorumluluk yatay değil, dikey buharlaşıyor. Sonra formülü ekran çağına tutuyoruz: kurbanlar hep bir ekran uzağında, önlükler hep cebimizde ve şalterin bugünkü adı \"gönder\" düğmesi. Ama itaat düşman değil; Tenerife faciası ve kokpit eğitimi gösteriyor ki sağlıklı sistem itaati kaldıran değil, itiraza kanal açan sistemdir.",
+   "season": 4,
+   "episode": 6
+  },
+  {
+   "file": "VF-BONUS-ZAY.mp3",
+   "title": "Zayıflama İğnesi Bedeninde Tam Olarak Ne Yapıyor? (GLP-1) | Vücut Fabrikası Bonus",
+   "desc": "Haftada bir küçük bir iğne, ve birkaç ay içinde insanlar kilolarca veriyor, kan şekerleri düzeliyor. Ozempic, Wegovy, Mounjaro... Eczanelerin tükendiği, sosyal medyanın \"mucize\" dediği o iğneler. Bu bölümde ne övgü ne linç yapıyoruz: o iğnenin içinde **ne olduğunu** ve fabrika-şehrinde **hangi düğmelere bastığını** hücre hücre, molekül molekül anlatıyoruz. Doğal tokluk hormonu **GLP-1**, onu dakikalar içinde yok eden enzim, ilacın bu enzime nasıl direndiği, mideyi yavaşlatması, beyindeki iştah termostatına etkisi — ve dürüst soru: bunu bıraktığında ne oluyor? Faydalar da, bedeller de masada. Sonunda \"mucize mi, iyi anlaşılmış bir araç mı?\" sorusuna dürüstçe cevap veriyoruz.",
+   "season": 2,
+   "episode": 15
+  },
+  {
+   "file": "VF-BONUS-SIN.mp3",
+   "title": "O Baş Ağrısı Sinüzit Değil: Beynin Yanlış Alarmı | Vücut Fabrikası Bonus",
+   "desc": "Yüzünün yarısı çimentoyla doldurulmuş gibi ağırlaşıyor, öne eğilince gözünün arkası zonkluyor, dişlerin sızlıyor — ve sen buna \"sinüzit\" diyorsun. Ama çoğu zaman bu yanlış bir teşhis. Bu bölümde fabrika-şehrimizin havalandırma sistemine inip o baş ağrısının **gerçekten sinüsten mi yoksa bambaşka bir yerden mi** geldiğini hücre hücre çözüyoruz: sinüs boşluklarının tıkanma mekaniği, mukoza ve kirpikli hücrelerin (silia) rolü, iltihabın kimyası, ve migrenin asıl tetikçisi **CGRP molekülü**. Sonunda o meşhur \"yüz ağrısı sinüzit mi migren mi?\" sorusuna dürüst bir cevap veriyoruz — ve neden milyonlarca insanın yanlış ilaç yuttuğunu anlıyoruz.",
+   "season": 2,
+   "episode": 16
+  },
+  {
+   "file": "TK-07.mp3",
+   "title": "Yalan Neden Gerçekten 6 Kat Hızlı Yayılır? | Toplumun Kodları #7",
+   "desc": "1969, Orléans. Şehirdeki kadın giyim mağazalarının deneme kabinlerinde genç kadınların iğneyle uyutulup kaçırıldığı fısıltısı dolaşıyor. Tek bir kayıp yok, tek bir polis kaydı yok, gazetelerde tek satır yok — ama söylenti umursamıyor. İki haftada bütün şehri sarıyor, esnaf az kalsın linç ediliyor. Paris'ten gelen sosyolog Edgar Morin tuhaf bir ortak nokta buluyor: suçlanan dükkânların hepsinin sahibi Yahudi. Ortada ne kurban var, ne suç, ne kanıt — sadece şehrin yüzyıllardır taşıdığı bir önyargı, \"haber\" kılığına girip sokağa salıveriliyor. Çünkü söylenti hiçbir zaman haber değildir; söylenti, şehrin gördüğü rüyadır.\n\nToplumun Kodları'nın yedinci bölümünde bilginin sokakta nasıl yayıldığını hücre hücre çözüyoruz: dedikodu neden evrimsel bir \"sosyal tımar\" aracı (Robin Dunbar), söylentinin gücünü belirleyen o basit ama bıçak gibi formül (Allport & Postman: önem × belirsizlik), kulaktan kulağa üç bozulma (kırpma, keskinleştirme, yamama), yalanın gerçekten neden altı kat hızlı koştuğu (MIT / Soroush Vosoughi), ve komplo teorilerinin zihnimize neden bu kadar oturduğu (desen avcısı kule + belirsizlik kaygısı, Karl Popper). Sonunda cebine koyacağın üç filtre: belirsizlik testi, kaynak zinciri, yirmi dört saat karantinası.",
+   "season": 4,
+   "episode": 7
+  },
+  {
+   "file": "TK-08.mp3",
+   "title": "Sapasağlam Bir Banka 2 Haftada Nasıl Batar? | Toplumun Kodları #8",
+   "desc": "Aralık 1973, Japonya. Bir banliyö treninde üç liseli kız. Biri müjdesini veriyor: okul bitince bir bankada işe başlayacak. Arkadaşı şakayla takılıyor: \"Bankada mı? Bankalar tehlikeli ya... ya batarsa?\" Üçü de gülüyor, iniyor, evlerine gidiyor. İki hafta sonra o bankanın şubelerinin önünde binlerce kişi kuyruktaydı; bir günde milyarlarca yen çekildi. Ve işin çıldırtıcı yanı: banka sapasağlamdı — hesaplar temiz, kasa dolu. Ama herkes batacağına inandığı için herkes parasını çekti; herkes parasını çektiği için banka gerçekten batma noktasına geldi. Kimse yalan söylemedi, kimse kötülük istemedi. Herkes sadece \"ne olur ne olmaz\" dedi.\n\nToplumun Kodları'nın sekizinci bölümünde inancın gerçeğe dönüştüğü o tuhaf anı — paniği — çözüyoruz: Robert Merton'ın kendini gerçekleştiren kehaneti, banka hücumunun acımasız matematiği (\"ilk koşan kazanır, son kalan kaybeder\"), keçi ayaklı tanrı Pan'dan gelen \"panik\" kelimesi, 1518 Strazburg dans salgını (kitlesel psikojenik hastalık), ve izdihamın ölümcül fiziği (Keith Still: metrekareye 6-7 kişi düşünce insan sıvı gibi akar, \"katil metrekaredir\"). Ama bölüm karanlıkta bitmiyor: paniğin panzehiri de aynı yerde — mevduat sigortası, doğru kapı, camdan gösterilen para desteleri. Belirsizliği kuruttuğun an, Pan'ın çığlığı susuyor.",
+   "season": 4,
+   "episode": 8
+  },
+  {
+   "file": "TK-09.mp3",
+   "title": "Kimse Yazmadı Ama Herkes Uyuyor: Şehrin Görünmez Anayasası | Toplumun Kodları #9",
+   "desc": "1962, bir ofis asansoru: kimsenin yazmadigi ama herkesin uydugu gorunmez kurallar. Sehrin gorunmez anayasasi, sosyal normlar ve onlari kiran deneyler.",
+   "season": 4,
+   "episode": 9
+  },
+  {
+   "file": "TK-10.mp3",
+   "title": "Devrimler Neden Aniden Patlar? Berlin Duvarı'nın Sırrı | Toplumun Kodları #10 (Sezon Finali)",
+   "desc": "Sezon finali: Devrimler neden yillarca hicbir sey olmazken bir anda patlar? Berlin Duvari, tercih saklama (preference falsification) ve kritik esik/domino etkisi.",
+   "season": 4,
+   "episode": 10
+  },
+  {
+   "file": "VF-S2-06.mp3",
+   "title": "Gözün Işığı Görmez, Kulağın Sesi Duymaz | Vücut Fabrikası S2 #6",
+   "desc": "Kafatasının içi zifiri karanlık ve sessiz — peki nasıl görüyor, nasıl duyuyorsun? Beden-şehrin surundaki iki çevirici: kamera (göz) ve mikrofon (kulak). Canlı mercek ve 20-20-6 molası, iris diyaframı, çubuklar-koniler, bir fotonun rodopsini büküp elektrik üretmesi; kulak zarı + pirinç tanesinden küçük üç kemikçik, koklea'daki piyano haritası ve yenilenmeyen tüy hücreleri. Konser çınlaması neden kalıcı olabilir, tinnitus neden 'hayalet ses'? Katarakt (Monet'nin sararan göletleri), glokom (sessiz hırsız), miyopi ve gün ışığı. Kapanışta sinyal Kontrol Kulesi'ne teslim: Zihnin Kodları'na köprü ve yeni soru — bu fabrikayı tek hücre nasıl kurdu?",
+   "season": 2,
+   "episode": 18
+  },
+  {
+   "file": "KORKU-02.mp3",
+   "title": "Yüksekte Neden Bacakların Titrer? Boşluğun O Tuhaf Çağrısı | Korkunun Anatomisi #2",
+   "desc": "Uçurum kenarında bacaklarının titremesi korkaklık değil; beynin iki sistemi arasındaki bir çelişki. Peki o 'atlasam ne olur' düşüncesi nereden geliyor?",
+   "season": 5,
+   "episode": 2
+  },
+  {
+   "file": "KORKU-03.mp3",
+   "title": "Sahne Korkusunun Anatomisi: Neden Yargılanmaktan Korkarız? | Korkunun Anatomisi #3",
+   "desc": "Topluluk önünde konuşmak neden ölüm korkusuyla yarışıyor? Sosyal korkunun kökeni, yüz kızarmasının sırrı ve sahne korkusunun beyindeki adresi.",
+   "season": 5,
+   "episode": 3
+  },
+  {
+   "file": "KORKU-04.mp3",
+   "title": "Kapalı Alan ve Karanlık Korkusu | Korkunun Anatomisi #4",
+   "desc": "Asansörde hava biter mi? Karanlıkta beynin neden senaryo üretir? Klostrofobi ve karanlık korkusunun altındaki gerçek mekanizma.",
+   "season": 5,
+   "episode": 4
+  },
+  {
+   "file": "KORKU-05.mp3",
+   "title": "Ölüm Korkusu: Bütün Korkuların Anası | Korkunun Anatomisi #5",
+   "desc": "Ölümü hatırlatılan yargıçlar neden 9 kat ağır ceza veriyor? Bütün korkuların altında yatan o tek korku ve insanın onunla baş etme yolları.",
+   "season": 5,
+   "episode": 5
+  },
+  {
+   "file": "KORKU-06.mp3",
+   "title": "Korku Nasıl Yenilir? Beynin Fren Hattını Örmek | Korkunun Anatomisi #6 (Final)",
+   "desc": "Bir korku dalgası aslında sadece 90 saniye sürer. Beynin fren hattı nasıl örülür, maruz bırakma neden işe yarar? Sezon finali.",
+   "season": 5,
+   "episode": 6
+  },
+  {
+   "file": "VF-S2-07.mp3",
+   "title": "Sen Bir Zamanlar Tek Bir Hücreydin — Peki Bu Fabrikayı Kim Kurdu? | Vücut Fabrikası S2 #7",
+   "desc": "Tek bir hücreden koca bir fabrika-şehir nasıl kuruldu? Üreme, gelişim ve bedenin ilk inşaat planı.",
+   "season": 2,
+   "episode": 19
+  },
+  {
+   "file": "VF-S2-08.mp3",
+   "title": "Her Hücrende 2 Metrelik Bir Kitap Var: DNA | Vücut Fabrikası S2 #8",
+   "desc": "Her hücrende iki metrelik bir ip var ve hepsi dört harfle yazılmış. DNA'nın katlanması, tek harflik hatalar ve epigenetiğin kenar notları.",
+   "season": 2,
+   "episode": 20
+  },
+  {
+   "file": "DA-01.mp3",
+   "title": "Ağlaya Ağlaya Kurulan Ülke: SİNGAPUR | Devr-i Âlem #1",
+   "desc": "Kimsenin istemediği bir ada, 60 yılda dünyanın en zengin ülkelerinden birine dönüştü. Maaşlar, kurallar, sakız yasağı ve o meşhur kanalizasyon suyu.",
+   "season": 6,
+   "episode": 1
+  },
+  {
+   "file": "DA-02.mp3",
+   "title": "Ordusu Yok, Suçu Yok, Bankacısı Hapiste: İZLANDA | Devr-i Âlem #2",
+   "desc": "Ordusu olmayan, soyadı kullanmayan, bankacılarını hapse atan ülke. Ateş ile buzun arasında yaşamak nasıl bir şey?",
+   "season": 6,
+   "episode": 2
+  },
+  {
+   "file": "DA-03.mp3",
+   "title": "Ordusu Kuşlara Yenilen Ülke: AVUSTRALYA | Devr-i Âlem #3",
+   "desc": "Bir ordu kuşlara savaş açtı ve kaybetti. Suçlu gemileriyle kurulan kıta, zorunlu oy, demokrasi sosislisi ve maaşlar.",
+   "season": 6,
+   "episode": 3
+  }
+ ]
+}
